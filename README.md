@@ -1,6 +1,6 @@
-**Mac BootROM Tool by David R:**
+**Mac BootROM Tool**
 -
-MacBRTool is used to update targeted Mac BootROMs using Apples EFI ROM Updater in EFI mode. This makes it easy to add APFS support and update the system ROM without needing to manually flash the SPIROM IC, or boot an Operating System. Everything is done automatically from an EFI shell on a handy bootable memory stick.
+MacBRTool is used to update targeted Mac BootROMs using Apples EFI ROM Updater in EFI mode. This makes it easy to add APFS support and update the system ROM without needing to manually flash the SPIROM IC, or boot an Operating System. Everything is done automatically from an EFI shell on a handy bootable memory stick. Please note that this is a fork of mine, and this is not the original project. It contains some updated ROMs and such.
 
 Before flashing the BootROM it's recommended to remove the internal storage device otherwise 'startup.nsh' may not run. Please also ensure the device is plugged in.
 
