@@ -35,12 +35,11 @@ Once the memory stick is ready, you can do any of the following:
 
 ## Updating the BootROM
 
-1. Remove the internal storage drive.
-2. If you have a portable device, plug in the power adapter.
-3. Insert your USB stick, then power on the device whilst holding `Option ⌥`.
-4. Load into MacBRTool from the boot menu and let `startup.nsh` run.
-5. Type `updatebr.nsh`, then press return, the BootROM will then be updated (if necessary).
-6. Type `exit` to leave the shell, or power down the device to complete the process.
+1. If you have a portable device, plug in the power adapter.
+2. Insert your USB stick, then power on the device whilst holding `Option ⌥`.
+3. Load into MacBRTool from the boot menu and let `startup.nsh` run.
+4. Type `updatebr.nsh`, then press return, the BootROM will then be updated (if necessary).
+5. Type `exit` to leave the shell, or power down the device to complete the process.
 
 **`startup.nsh` did not run:**\
 In this case, you must manually find the USB filesystem. With the internal storage drive present, the filesystem is generally found at `fs7:`, in the shell type `fs7:`, then press return. With the internal storage drive removed, the filesystem is generally found at `fs0:`, in the shell type `fs0:`, then press return. A directory file list can be viewed by typing `ls`, then pressing return.
