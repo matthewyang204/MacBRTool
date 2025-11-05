@@ -44,7 +44,7 @@ Once the memory stick is ready, you can do any of the following:
 **`startup.nsh` did not run:**\
 In this case, you must manually find the USB filesystem. With the internal storage drive present, the filesystem is generally found at `fs7:`, in the shell type `fs7:`, then press return. With the internal storage drive removed, the filesystem is generally found at `fs0:`, in the shell type `fs0:`, then press return. A directory file list can be viewed by typing `ls`, then pressing return.
 
-Once you find the filesystem with 'startup.nsh', you can then run the file.
+Once you find the filesystem with `startup.nsh`, you can then run the file.
 
 ## Compatibility
 
