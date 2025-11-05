@@ -21,15 +21,6 @@ Mac BootROM Tool
 
 MacBRTool is used to update targeted Mac BootROMs using Apples EFI ROM Updater in EFI mode. This makes it easy to add APFS support and update the system ROM without needing to manually flash the SPIROM IC, or boot an Operating System. Everything is done automatically from an EFI shell on a handy bootable memory stick.
 
-## Download
-
-| Version| Release Date| Latest|
-|--------|-------------|--------|
-|[V1.0.1](https://github.com/MuertoGB/MacBRTool/releases/tag/v1.0.1)|not Set |`Yes`|
-|[V1.0.0](https://github.com/MuertoGB/MacBRTool/releases/tag/v1.0.0)|2nd Feb 2023|`No` |
-
-> 📔 See the full [Changelog](CHANGELOG.md).
-
 ## Bootable USB
 
 To begin, format a USB disk in ExFAT, FAT32, VFAT or HFS+ for use with MacBRTool.
