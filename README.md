@@ -111,9 +111,3 @@ I'm not responsible if you do something wrong, if you're here I expect you to kn
 ## Acknowledgements
 
 > 🖼 Project icon by [Xcoder](https://macosicons.com/#/u/Xcoder) on macOSicons.
-
-## Donate
-
-<a href="https://www.buymeacoffee.com/Muerto"><img width="160" src="https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/AB18JbfsN4REmFgvOrzwO3ooBl2K1VkxckN-h1H0qKcNhQDfIIROLC57mhfRHlNPZXBDEK7S3gHEnx6Uc35udaYsS-Mx66J6llYd_lSwfaIAntk3eynVXJNhd5nRHFDI1ncBuDVpVbrtKeQZlP2WPhejwCDH99YAFH8xcPef9q2d37EBjVV9-cK4cGUd7KmXCfa81wP6tXXV8r7-f_5L1c6tgs9HxLgqaDlAPXG8BcM9B6NRFdxlOsLGvYh9ESFE7fMb7dTrOu7PgsBsVrrIfTOxL8akUj2QiSGMJiZNXJrYrsW7mjKu_qQ-7Z-mhlZ2ZtY-FApmMFhfQrWj17D7hiXCemMdb_SaZCbaHBucMaJZ5Y1OPY3a6XlAxUCNJXSrFoI/p.png" alt="Buy Me A Coffee Logo" vspace="5" hspace="5"></a><a href="https://www.paypal.com/donate/?hosted_button_id=Z88F3UEZB47SQ"><img width="160" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" alt="PayPal Logo" vspace="5" hspace="5"></a>
-
----
